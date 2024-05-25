@@ -1,1 +1,1 @@
-# netflix-clone-project
+# netflix home page clone-project
